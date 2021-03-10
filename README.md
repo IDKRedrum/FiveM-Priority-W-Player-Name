@@ -1,4 +1,4 @@
-# FiveM-Priority-W-Player-Name
+# FiveM-Priority-With-Player-Name
 
 This is a base stand alone priority script for fivem, What makes this stand apart is the display of the players name next the the active priority!
 
