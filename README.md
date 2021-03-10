@@ -2,6 +2,9 @@
 
 This is a base stand alone priority script for fivem, What makes this stand apart is the display of the players name next the the active priority!
 
+# Support Discord 
+https://discord.gg/QjCWhNTTS8
+
 # Commands
 - /priority - Shows a priority is active and shows who started it
 
